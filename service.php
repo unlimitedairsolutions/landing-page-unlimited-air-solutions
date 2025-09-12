@@ -34,7 +34,7 @@
                 <div class="service_img_info_box">
                     <img src="assets/images/shape/service-color-shape.png" class="service_info_color_shape" alt="shape">
                 </div><!--end .service_img_info_box-->
-                <p class="col-md-10 col-md-offset-1">Loazzne® is a heating and cooling service company with a history of excellence, customer service, and quality craftsmanship. We specialize in HVAC service, replacement, and repair for both residential and commercial customers in North America.</p>
+                <p class="col-md-10 col-md-offset-1">Unlimited Air Solutions® is a heating and cooling service company with a history of excellence, customer service, and quality craftsmanship. We specialize in HVAC service, replacement, and repair for both residential and commercial customers in North America.</p>
             </div><!--end .col-md-12-->
         </div><!--end .row-->
     </div><!--end .container-->
@@ -65,7 +65,7 @@
                     <div class="service_details">
                         <a href="service-details.php"><h2>Construccion</h2></a>
                         <p>
-                            There are many variations passages of lorem ipsum available but the majority have suffered alteration.
+                            HVAC design-build for homes and businesses, code-compliant, on-time, professional installs.
                         </p>
                         <a href="service-details.php" class="btn-yellow">LEARN MORE</a>
                     </div><!--end .service_details-->
@@ -82,7 +82,7 @@
                     <div class="service_details">
                         <a href="service-details.php"><h2>Installation</h2></a>
                         <p>
-                            There are many variations passages of lorem ipsum available but the majority have suffered alteration.
+                            Expert AC and heat pump installs with precise sizing, efficiency, and full permit handling.
                         </p>
                         <a href="service-details.php" class="btn-yellow">LEARN MORE</a>
                     </div><!--end .service_details-->
@@ -99,7 +99,7 @@
                     <div class="service_details">
                         <a href="service-details.php"><h2>Service and Repair</h2></a>
                         <p>
-                            There are many variations passages of lorem ipsum available but the majority have suffered alteration.
+                            Fast, transparent HVAC repairs — cooling, heating, air quality, with same-day and emergency service.
                         </p>
                         <a href="service-details.php" class="btn-yellow">LEARN MORE</a>
                     </div><!--end .service_details-->
@@ -116,7 +116,7 @@
                     <div class="service_details">
                         <a href="service-details.php"><h2>Maintenance</h2></a>
                         <p>
-                            There are many variations passages of lorem ipsum available but the majority have suffered alteration.
+                            Proactive HVAC tune-ups prevent breakdowns, cut energy costs, keep systems running like new.
                         </p>
                         <a href="service-details.php" class="btn-yellow">LEARN MORE</a>
                     </div><!--end .service_details-->

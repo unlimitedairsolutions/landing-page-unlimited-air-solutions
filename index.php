@@ -104,11 +104,15 @@
             <div class="col-md-6">
                 <div class="about_details">
                     <div class="hero-title-with-shape">
-                        <h4 class="heading_with_border">Welcome to loazzne</h4>
+                        <h4 class="heading_with_border">Welcome to Unlimited Air Solutions</h4>
                         <h1>Heating and air conditioning repair and installation company</h1>
                     </div><!--end .hero-title-with-shape-->
-                    <p>There are many variations of passages of lorem ipsum available, but the majorify have suffered alteration in some form by injected humour, or randmised words which don't look even slightly believable.</p>
-                    <a href="#" class="btn-yellow">LEARN MORE</a>
+                    <p>Certified technicians handle repairs, maintenance, installations, and heating.
+                    We prioritize comfort, air quality, and reliability on every job.
+                    Energy-efficient solutions that lower operating costs year-round.
+                </p>
+                <a href="#" class="btn-yellow">LEARN MORE</a>
+                    
                 </div><!--end .about_details-->
             </div><!--end .col-md-6-->
         </div><!--end .row-->
@@ -129,52 +133,69 @@
                     <h1>Our services</h1>
                 </div><!--end .hero-section-title-->
             </div><!--end .col-md-12-->
-            <div class="col-md-4 col-sm-6">
+            <div class="col-md-3 col-sm-6">
                 <div class="service_box">
                     <div class="service_img">
-                        <img src="assets/images/services/service-1.jpg" alt="service 1">
+                        <img src="assets/images/services/service-1.jpg" alt="service image">
                         <div class="icon-box">
                             <i class="icon-snow"></i>
                         </div><!-- /.icon-box -->
                     </div><!--end .service_img-->
                     <div class="service_details">
-                        <a href="service-details.php"><h2>Cooling Services</h2></a>
+                        <a href="service-details.php"><h2>Construccion</h2></a>
                         <p>
-                            There are many variations passages of lorem ipsum available but the majority have suffered alteration.
+                            HVAC design-build for homes and businesses, code-compliant, on-time, professional installs.
                         </p>
                         <a href="service-details.php" class="btn-yellow">LEARN MORE</a>
                     </div><!--end .service_details-->
                 </div><!--end .service_box-->
             </div><!--end .col-md-4-->
-            <div class="col-md-4 col-sm-6">
+            <div class="col-md-3 col-sm-6">
                 <div class="service_box">
                     <div class="service_img">
-                        <img src="assets/images/services/service-2.jpg" alt="service 2">
+                        <img src="assets/images/services/service-2.jpg" alt="service image">
                         <div class="icon-box">
                             <i class="icon-fire"></i>
                         </div><!-- /.icon-box -->
                     </div><!--end .service_img-->
                     <div class="service_details">
-                        <a href="service-details.php"><h2>Heating Services</h2></a>
+                        <a href="service-details.php"><h2>Installation</h2></a>
                         <p>
-                            There are many variations passages of lorem ipsum available but the majority have suffered alteration.
+                            Expert AC and heat pump installs with precise sizing, efficiency, and full permit handling.
                         </p>
                         <a href="service-details.php" class="btn-yellow">LEARN MORE</a>
                     </div><!--end .service_details-->
                 </div><!--end .service_box-->
             </div><!--end .col-md-4-->
-            <div class="col-md-4 col-sm-6">
+            <div class="col-md-3 col-sm-6">
                 <div class="service_box">
                     <div class="service_img">
-                        <img src="assets/images/services/service-3.jpg" alt="service 3">
+                        <img src="assets/images/services/service-3.jpg" alt="service image">
                         <div class="icon-box">
                             <i class="icon-ac"></i>
                         </div><!-- /.icon-box -->
                     </div><!--end .service_img-->
                     <div class="service_details">
-                        <a href="service-details.php"><h2>Other Services</h2></a>
+                        <a href="service-details.php"><h2>Service and Repair</h2></a>
                         <p>
-                            There are many variations passages of lorem ipsum available but the majority have suffered alteration.
+                            Fast, transparent HVAC repairs — cooling, heating, air quality, with same-day and emergency service.
+                        </p>
+                        <a href="service-details.php" class="btn-yellow">LEARN MORE</a>
+                    </div><!--end .service_details-->
+                </div><!--end .service_box-->
+            </div><!--end .col-md-4-->
+            <div class="col-md-3 col-sm-6">
+                <div class="service_box">
+                    <div class="service_img">
+                        <img src="assets/images/services/service-3.jpg" alt="service image">
+                        <div class="icon-box">
+                            <i class="icon-ac"></i>
+                        </div><!-- /.icon-box -->
+                    </div><!--end .service_img-->
+                    <div class="service_details">
+                        <a href="service-details.php"><h2>Maintenance</h2></a>
+                        <p>
+                            Proactive HVAC tune-ups prevent breakdowns, cut energy costs, keep systems running like new.
                         </p>
                         <a href="service-details.php" class="btn-yellow">LEARN MORE</a>
                     </div><!--end .service_details-->
@@ -466,7 +487,7 @@
         <h1 class="contact_map_title text-center">We're not putting on airs - our work is guaranteed to satisfy.</h1>
         <div class="map-items">
             <div class="googpemap">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3586.2480083167006!2d-80.21575292392755!3d25.992691999020547!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88d9a934d2dcda97%3A0x15f4281c53a66f6a!2s6301%20SW%2020th%20Ct%2C%20Miramar%2C%20FL%2033023%2C%20USA!5e0!3m2!1sen!2sco!4v1757135384661!5m2!1sen!2sco" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3586.248154774137!2d-80.21317800000001!3d25.9926872!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88d9a934d2dcda97%3A0x15f4281c53a66f6a!2s6301%20SW%2020th%20Ct%2C%20Miramar%2C%20FL%2033023%2C%20USA!5e0!3m2!1sen!2sco!4v1757172217259!5m2!1sen!2sco" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
         </div>
     </div><!--end .contact_form_width-->

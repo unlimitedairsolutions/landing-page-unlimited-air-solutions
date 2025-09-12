@@ -126,13 +126,13 @@
                         <div class="tab-pane fade in active" id="other-service-body" role="tabpanel" aria-labelledby="cooling-service-tab">
                             <div class="service_details_contact">
                                 <span class="icon-support"></span>
-                                <h2><span>Contact with us </span>666 888 000</h2>
+                                <h2><span>Contact with us </span>(305) 908-2526</h2>
                             </div><!-- end service_details_contact -->
                         </div>
                         <div class="tab-pane fade" id="commercial-service-body" role="tabpanel" aria-labelledby="cooling-service-tab">
                             <div class="service_details_contact">
                                 <span class="icon-support"></span>
-                                <h2><span>Contact with us </span>666 888 000</h2>
+                                <h2><span>Contact with us </span>(305) 908-2526</h2>
                             </div><!-- end service_details_contact -->
                         </div>
                     </div>

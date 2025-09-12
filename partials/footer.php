@@ -26,7 +26,7 @@
             <div class="row">
                 <div class="col-md-4 col-sm-6">
                     <div class="footer_textwidget textwidget">
-                        <h2>About Loazzne</h2>
+                        <h2>About Unlimited Air Solutions</h2>
                         <p>
                             At Lennom, We don’t just provide resi-dential and commercial heating and air conditioning services; we make people’s lives easier. Better.
                         </p>

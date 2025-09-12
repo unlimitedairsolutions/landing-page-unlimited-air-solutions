@@ -1,5 +1,5 @@
 /*------------------------------------------------------------------
-    Template Name:  Loazzne
+    Template Name:  Unlimited Air Solutions
     Version: 1.0
     Author: Layerdrops
     Author Email: layerdrops@gmail.com

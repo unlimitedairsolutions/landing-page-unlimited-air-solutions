@@ -5,7 +5,7 @@
     LL           OO          OO   AA     AA   ZZ       ZZ       NN   NN NN  EE
     LLLLLLLLLLL    OOOOOOOOOO     AA     AA  ZZZZZZZZ ZZZZZZZZ  NN    NNNN  EEEEEEE
 
-    Template Name:  Loazzne
+    Template Name:  Unlimited Air Solutions
     Author: Layerdrops
     Author Email: Layerdrops@gmail.com
     License: GPL V2 or Later
@@ -538,7 +538,7 @@ body {
     overflow: hidden;
 }
 .header_slider_bg {
-    background: url(../images/slider/slider-1.jpg) center center no-repeat;
+    background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)),url(../images/slider/slider-1.jpg) center center no-repeat;
     background-size: cover;
     height: 100%;
     padding: 338px 0 238px 0;
@@ -547,10 +547,12 @@ body {
     transition: .4s;
 }
 .slider_bg2 {
-    background-image: url(../images/slider/slider-2.jpg);
+   background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), 
+                      url(../images/slider/slider-2.jpg); 
 }
 .slider_bg3 {
-    background-image: url(../images/slider/slider-3.jpg);
+    background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), 
+                      url(../images/slider/slider-6.jpg);   
 }
 .header_slider_area .owl-item .header_slider_bg p {
     margin-left: -200px;
@@ -662,11 +664,11 @@ body {
     margin-top: 101px;
 }
 .home_v2_header_slider .header_slider_bg {
-    background-image: url(../images/slider/slider-5.jpg);
+    background-image: url(../images/slider/slider-1.jpg);
     padding: 258px 0 258px 0;
 }
 .home_v2_header_slider .slider_bg2 {
-    background-image: url(../images/slider/slider-4.jpg);
+    background-image: url(../images/slider/slider-2.jpg);
 }
 .home_v2_header_slider .slider_bg3 {
     background-image: url(../images/slider/slider-5.jpg);
@@ -1218,7 +1220,7 @@ section.about_area img.about_shape {
         -ms-flex: 4;
             flex: 4;
     color: #ffffff;
-    font-size: 30px;
+    font-size: 25px;
     line-height: 30px;
 }
 .service_details_contact {
@@ -1605,7 +1607,7 @@ section.about_area img.about_shape {
     padding-right: 40px;
 }
 .gallery_overlay a {
-    background-color: #f5d974;
+    background-color: #aaa8a6;
     color: #38373c;
     border-radius: 50%;
     display: inline-block;
@@ -1820,7 +1822,7 @@ section.about_area img.about_shape {
     color: #436280;
 }
 .about_service_left .about_service_year {
-    background-color: #f5d974;
+    background-color: #7090cb;
     color: #38373c;
     position: absolute;
     right: -50px;
@@ -1890,7 +1892,7 @@ section.about_area img.about_shape {
 .overlay .video-img {
     width: 127px;
     height: 127px;
-    background: #f5d974;
+    background: #7090cb;
     display: inline-block;
     line-height: 135px;
     border-radius: 50%;
@@ -1904,7 +1906,7 @@ section.about_area img.about_shape {
     position: absolute;
     width: 100%;
     height: 100%;
-    background: #f5d974;
+    background: #7090cb;
     left: 0;
     top: 0;
     border-radius: 50%;
