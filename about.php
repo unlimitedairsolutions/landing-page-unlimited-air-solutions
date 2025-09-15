@@ -240,31 +240,31 @@
         <div class="row">
             <div class="clients_logo owl-carousel">
                 <div class="item">
-                    <img src="assets/images/client-logo.png" alt="Clients Logos">
+                    <img src="assets/images/client-logo-1.png" alt="Clients Logos">
                 </div><!--end .item-->
                 <div class="item">
-                    <img src="assets/images/client-logo.png" alt="Clients Logos">
+                    <img src="assets/images/client-logo-2.png" alt="Clients Logos">
                 </div><!--end .item-->
                 <div class="item">
-                    <img src="assets/images/client-logo.png" alt="Clients Logos">
+                    <img src="assets/images/client-logo-3.png" alt="Clients Logos">
                 </div><!--end .item-->
                 <div class="item">
-                    <img src="assets/images/client-logo.png" alt="Clients Logos">
+                    <img src="assets/images/client-logo-4.png" alt="Clients Logos">
                 </div><!--end .item-->
                 <div class="item">
-                    <img src="assets/images/client-logo.png" alt="Clients Logos">
+                    <img src="assets/images/client-logo-5.png" alt="Clients Logos">
                 </div><!--end .item-->
                 <div class="item">
-                    <img src="assets/images/client-logo.png" alt="Clients Logos">
+                    <img src="assets/images/client-logo-6.png" alt="Clients Logos">
                 </div><!--end .item-->
                 <div class="item">
-                    <img src="assets/images/client-logo.png" alt="Clients Logos">
+                    <img src="assets/images/client-logo-1.png" alt="Clients Logos">
                 </div><!--end .item-->
                 <div class="item">
-                    <img src="assets/images/client-logo.png" alt="Clients Logos">
+                    <img src="assets/images/client-logo-2.png" alt="Clients Logos">
                 </div><!--end .item-->
                 <div class="item">
-                    <img src="assets/images/client-logo.png" alt="Clients Logos">
+                    <img src="assets/images/client-logo-3.png" alt="Clients Logos">
                 </div><!--end .item-->
             </div><!--end .clients_logo-->
         </div><!--end .row-->

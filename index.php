@@ -187,7 +187,7 @@
             <div class="col-md-3 col-sm-6">
                 <div class="service_box">
                     <div class="service_img">
-                        <img src="assets/images/services/service-3.jpg" alt="service image">
+                        <img src="assets/images/services/service-4.jpg" alt="service image">
                         <div class="icon-box">
                             <i class="icon-ac"></i>
                         </div><!-- /.icon-box -->
@@ -338,20 +338,21 @@
             <div class="col-md-8 col-md-offset-2">
                 <div class="testimonial_slider owl-carousel">
                     <div class="testimonial_details">
-                        <p>This is due to their excellent service, competitive pricing and customer support . It's throughly refresing to get such a personal touch.</p>
-                        <h4>Jim Doe</h4>
-                        <span>Director</span>
+                        <p>Thank you for the kind rating, Mr. Buksbaum! Always a pleasure working with you.</p>
+                        <h4>Jacob Bucksbaum</h4>
                     </div><!--end .testimonial_details-->
                     <div class="testimonial_details">
-                        <p>This is due to their excellent service, competitive pricing and customer support . It's throughly refresing to get such a personal touch.</p>
-                        <h4>Mark Doe</h4>
-                        <span>Developer</span>
+                        <p>Freddy was courteous, professional and explained every step of what he was doing. Offered recommendations and was quick and efficient.</p>
+                        <h4>Nelson R Piludu</h4>
                     </div><!--end .testimonial_details-->
                     <div class="testimonial_details">
-                        <p>This is due to their excellent service, competitive pricing and customer support . It's throughly refresing to get such a personal touch.</p>
-                        <h4>Shirley Smith</h4>
-                        <span>Director</span>
+                        <p>Thank you for your 5-star review! We appreciate your trust in our services and look forward to serving you again.</p>
+                        <h4>Saul Allcon</h4>
                     </div><!--end .testimonial_details-->
+                    <div class="testimonial_details">
+                        <p>Thank you for your kind words! We’re glad you found our service dependable. It was a pleasure assisting you, and we’re here anytime you need us.</p>
+                        <h4>Maria Esther</h4>
+                    </div>
                 </div><!--end .testimonial_slider-->
             </div><!--end .col-md-8-->
         </div><!--end .row-->
@@ -370,31 +371,31 @@
         <div class="row">
             <div class="clients_logo owl-carousel">
                 <div class="item">
-                    <img src="assets/images/client-logo.png" alt="Clients Logos">
+                    <img src="assets/images/client-logo-1.png" alt="Clients Logos">
                 </div><!--end .item-->
                 <div class="item">
-                    <img src="assets/images/client-logo.png" alt="Clients Logos">
+                    <img src="assets/images/client-logo-2.png" alt="Clients Logos">
                 </div><!--end .item-->
                 <div class="item">
-                    <img src="assets/images/client-logo.png" alt="Clients Logos">
+                    <img src="assets/images/client-logo-3.png" alt="Clients Logos">
                 </div><!--end .item-->
                 <div class="item">
-                    <img src="assets/images/client-logo.png" alt="Clients Logos">
+                    <img src="assets/images/client-logo-4.png" alt="Clients Logos">
                 </div><!--end .item-->
                 <div class="item">
-                    <img src="assets/images/client-logo.png" alt="Clients Logos">
+                    <img src="assets/images/client-logo-5.png" alt="Clients Logos">
                 </div><!--end .item-->
                 <div class="item">
-                    <img src="assets/images/client-logo.png" alt="Clients Logos">
+                    <img src="assets/images/client-logo-6.png" alt="Clients Logos">
                 </div><!--end .item-->
                 <div class="item">
-                    <img src="assets/images/client-logo.png" alt="Clients Logos">
+                    <img src="assets/images/client-logo-1.png" alt="Clients Logos">
                 </div><!--end .item-->
                 <div class="item">
-                    <img src="assets/images/client-logo.png" alt="Clients Logos">
+                    <img src="assets/images/client-logo-2.png" alt="Clients Logos">
                 </div><!--end .item-->
                 <div class="item">
-                    <img src="assets/images/client-logo.png" alt="Clients Logos">
+                    <img src="assets/images/client-logo-3.png" alt="Clients Logos">
                 </div><!--end .item-->
             </div><!--end .clients_logo-->
         </div><!--end .row-->
@@ -474,7 +475,7 @@
             </div><!--end .col-md-4-->
         </div><!--end .row-->
     </div><!--end .container-->
-</section><!--end .blog_share_area-->
+</section>
 <!--===========================
         End Blog
 ===========================-->

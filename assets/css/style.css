@@ -506,6 +506,7 @@ body {
     position: relative;
     padding-top: 224px;
 }
+
 .breadcrumb_section .breadcrumb {
     background: none;
     margin: 0 0 15px 0;
@@ -1376,8 +1377,8 @@ section.about_area img.about_shape {
     letter-spacing: 1px;
 }
 .btn-gray:hover {
-    background: #38adb6;
-    color: #ffffff;
+    background: #ffffff;
+    color: #000;
 }
 
 /*------------------------------------
@@ -1710,10 +1711,10 @@ section.about_area img.about_shape {
     background-size: cover;
 }
 .testimonial_slider .owl-dots button:nth-child(2){
-    background-image: url(../images/testimonial/testimonial-2.jpg);
+    background-image: url(../images/testimonial/testimonial-1.jpg);
 }
 .testimonial_slider .owl-dots button:nth-child(3){
-    background-image: url(../images/testimonial/testimonial-3.jpg);
+    background-image: url(../images/testimonial/testimonial-1.jpg);
 }
 .testimonial_slider .owl-dots {
     position: absolute;

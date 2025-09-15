@@ -144,34 +144,36 @@
                 <div class="service_benefits_box">
                     <i class="icon-big_clock"></i>
                     <h3>Emergency Service</h3>
-                    <p>Fast response for no-cool calls, leaks & breakdowns. Certified techs, same-day service when available. Serving Miami-Dade & Broward.</p>
+                    <p>Rapid response for no-cool calls and breakdowns.
+                    Certified technicians; same-day service when available.
+                    Serving Miami-Dade & Broward.</p>
                 </div><!--end .service_benefits_box-->
             </div><!--end col-md-3-->
             <div class="col-md-3 col-sm-6">
                 <div class="service_benefits_box">
                     <i class="icon-wallet"></i>
                     <h3>No Upfront Payment</h3>
-                    <p>Transparent pricing with your approval before any work.
-                    No payment required until service is authorized.
-                    Clear estimates—no surprises.</p>
+                    <p>Clear estimates and your approval before any work.
+No deposit required—pay only once authorized.
+Transparent pricing, no surprises.</p>
                 </div><!--end .service_benefits_box-->
             </div><!--end col-md-3-->
             <div class="col-md-3 col-sm-6">
                 <div class="service_benefits_box">
                     <i class="icon-diploma"></i>
                     <h3>Satisfaction Guarantee</h3>
-                    <p>We stand behind our repairs and installs.
-                    Warranty on parts and labor where applicable.
-                    If something isn’t right, we’ll make it right.</p>
+                    <p>We stand behind every repair and install.
+Parts and labor warranties where applicable.
+If something isn’t right, we’ll make it right.</p>
                 </div><!--end .service_benefits_box-->
             </div><!--end col-md-3-->
             <div class="col-md-3 col-sm-6">
                 <div class="service_benefits_box">
                     <i class="icon-mechanic"></i>
-                    <h3>8 Years Experience</h3>
-                    <p>Over 8 years serving South Florida homes and businesses.
-                    Certified techs trained on all major brands.
-                    Proven, energy-efficient solutions that last.</p>
+                    <h3>15 Years Experience</h3>
+                    <p>15+ years serving South Florida homes & businesses.
+Certified techs trained on all major brands.
+Proven, energy-efficient solutions that last.</p>
                 </div><!--end .service_benefits_box-->
             </div><!--end col-md-3-->
         </div><!--end .row-->
@@ -189,31 +191,31 @@
         <div class="row">
             <div class="clients_logo owl-carousel">
                 <div class="item">
-                    <img src="assets/images/client-logo.png" alt="Clients Logos">
+                    <img src="assets/images/client-logo-1.png" alt="Clients Logos">
                 </div><!--end .item-->
                 <div class="item">
-                    <img src="assets/images/client-logo.png" alt="Clients Logos">
+                    <img src="assets/images/client-logo-2.png" alt="Clients Logos">
                 </div><!--end .item-->
                 <div class="item">
-                    <img src="assets/images/client-logo.png" alt="Clients Logos">
+                    <img src="assets/images/client-logo-3.png" alt="Clients Logos">
                 </div><!--end .item-->
                 <div class="item">
-                    <img src="assets/images/client-logo.png" alt="Clients Logos">
+                    <img src="assets/images/client-logo-4.png" alt="Clients Logos">
                 </div><!--end .item-->
                 <div class="item">
-                    <img src="assets/images/client-logo.png" alt="Clients Logos">
+                    <img src="assets/images/client-logo-5.png" alt="Clients Logos">
                 </div><!--end .item-->
                 <div class="item">
-                    <img src="assets/images/client-logo.png" alt="Clients Logos">
+                    <img src="assets/images/client-logo-6.png" alt="Clients Logos">
                 </div><!--end .item-->
                 <div class="item">
-                    <img src="assets/images/client-logo.png" alt="Clients Logos">
+                    <img src="assets/images/client-logo-1.png" alt="Clients Logos">
                 </div><!--end .item-->
                 <div class="item">
-                    <img src="assets/images/client-logo.png" alt="Clients Logos">
+                    <img src="assets/images/client-logo-2.png" alt="Clients Logos">
                 </div><!--end .item-->
                 <div class="item">
-                    <img src="assets/images/client-logo.png" alt="Clients Logos">
+                    <img src="assets/images/client-logo-3.png" alt="Clients Logos">
                 </div><!--end .item-->
             </div><!--end .clients_logo-->
         </div><!--end .row-->

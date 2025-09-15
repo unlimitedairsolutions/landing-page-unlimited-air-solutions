@@ -22,13 +22,13 @@
                         </li>
                         <li><a href="about.php">About</a></li>
                         <li><a href="service.php">Services</a></li>
-                        <li>
+                        <!-- <li>
                             <a href="blog.php">Blog <i class="fa fa-angle-down"></i></a> <span class="responsive_menu"><i class="fa fa-angle-down"></i></span>
                             <ul class="dropdown-menu dropdown-menu-responsive2">
                                 <li><a href="blog.php">Blog Grid</a></li>
                                 <li><a href="blog-details.php">Blog Details</a></li>
                             </ul>
-                        </li>
+                        </li> -->
                         <li><a href="contact.php">Contact</a></li>
                         <li class="header_right_btn">
                             <a class="btn-yellow" href="#">BOOK TODAY</a>
