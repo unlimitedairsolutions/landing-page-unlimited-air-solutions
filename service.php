@@ -84,7 +84,7 @@
                         <p>
                             Expert AC and heat pump installs with precise sizing, efficiency, and full permit handling.
                         </p>
-                        <a href="service-details.php" class="btn-yellow">LEARN MORE</a>
+                        <a href="service-details-2.php" class="btn-yellow">LEARN MORE</a>
                     </div><!--end .service_details-->
                 </div><!--end .service_box-->
             </div><!--end .col-md-4-->

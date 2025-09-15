@@ -33,10 +33,10 @@
         <div class="row">
             <div class="col-md-8">
                 <div class="service_details_left">
-                    <img src="assets/images/services/service-details.jpg" alt="Service Details Image">
-                    <h1>Construccion</h1>
-                    <p>Planning a new construction project means ensuring every system is built for long-term comfort and efficiency — and your HVAC system is no exception. Unlimited Air Solutions specializes in HVAC construction services for new homes, commercial buildings, and custom projects throughout Miami-Dade and Broward Counties, including Brickell, Aventura, Sunny Isles, Pembroke Pines, Davie, Sunrise, and nearby areas. Our heating and cooling technicians understand that proper planning and expert new construction AC installation are critical for optimizing energy efficiency, airflow, and indoor air quality. Whether you're building a residential property or expanding a commercial space, we help lay the foundation for a dependable and high-performance HVAC system right from the start.</p>
-                    <p>At Unlimited Air Solutions, we bring 15 years of HVAC construction expertise to every project, delivering precision, innovation, and quality workmanship. Our team designs and installs customized heating, cooling, and ventilation systems using the latest technology and energy-efficient methods. From new construction air conditioning systems to complete climate control solutions, we ensure your project stays on schedule and exceeds industry standards. As a trusted HVAC contractor serving Miami-Dade and Broward Counties, we’re committed to creating systems that minimize future maintenance costs while maximizing long-term comfort and efficiency. Partner with us for reliable HVAC construction services built to stand the test of time.</p>
+                    <img src="assets/images/services/service-details-2.jpg" alt="Service Details Image">
+                    <h1>Installation</h1>
+                    <p>When it comes to maintaining a comfortable home or business, a professional HVAC installation makes all the difference. At Unlimited Air Solutions, we provide expert air conditioning installation, heating system setup, and full HVAC system installation across Miami-Dade and Broward Counties, including Brickell, Aventura, Sunny Isles, Pembroke Pines, Davie, Sunrise, and nearby areas. Whether you're replacing an outdated unit or planning a new installation, our certified technicians specialize in air conditioner installation near you, delivering energy-efficient solutions that ensure year-round comfort. From central air conditioner upgrades to ductless mini-split AC installations, we help you achieve the ideal indoor climate with systems designed for durability and performance.</p>
+                    <p>Choosing Unlimited Air Solutions for your AC installation means you’re partnering with a trusted, family-owned company with 15 years of industry experience. We work with top-tier brands to provide reliable heating and air conditioning installations tailored to your property’s needs. Our precision-driven approach ensures a seamless setup, improved indoor air quality, and lower energy bills over time. Whether you need an hvac installation quote for a residential property or an efficient system for your commercial space, our team is committed to delivering outstanding results. Experience the difference with our expert ac installation services and enjoy reliable, hassle-free comfort for years to come.</p>
                     <!-- <h2>Common Air Conditioner Problems</h2> -->
                     <!-- <ul>
                         <li><i class="fa fa-check-circle"></i> The air conditioner won't turn on.</li>
@@ -61,19 +61,19 @@
                     <h1 class="text-center">Our Services</h1>
                     <div class="service_details_sv_cnt text-center service_cool_head">
                         <ul class="nav nav-tabs">
-                            <li class="active">
+                            <li >
                                 <a id="cooling-service-tab" data-toggle="tab" href="#cooling-service-body">
                                     <div class="service_center_left">
                                         <i class="icon-snow"></i>
-                                        <span>Cooling Services</span>
+                                        <span>Construccion</span>
                                     </div><!--end .service_center_left-->
                                 </a>
                             </li>
-                            <li>
+                            <li class="active">
                                 <a id="heating-service-tab" data-toggle="tab" href="#heating-service-body">
                                     <div class="service_center_left">
                                         <i class="icon-fire"></i>
-                                        <span>Heating Services</span>
+                                        <span>Installation</span>
                                     </div><!--end .nav-tabs-->
                                 </a>
                             </li>
@@ -109,7 +109,7 @@
                                 <a id="other-service-tab" data-toggle="tab" href="#other-service-body">
                                     <div class="service_center_left">
                                         <i class="icon-ac"></i>
-                                        <span>Other Services</span>
+                                        <span>Repair</span>
                                     </div><!-- end .service_details_sv_cnt -->
                                 </a>
                             </li>
@@ -117,7 +117,7 @@
                                 <a id="commercial-service-tab" data-toggle="tab" href="#commercial-service-body">
                                     <div class="service_center_left">
                                         <i class="icon-building"></i>
-                                        <span>Commercial Services</span>
+                                        <span>Maintenance</span>
                                     </div><!-- end .service_center_left -->
                                 </a>
                             </li>

@@ -513,6 +513,10 @@
             <button class="btn-yellow" value="SUBMIT NOW">SUBMIT NOW</button>
         </form>
     </div><!--end .contact_form_width-->
+
+    <a href="https://wa.me/573001112233" target="_blank" class="whatsapp-float">
+        <img src="./assets/images/icono-wp.png" alt="WhatsApp" class="whatsapp-icon">
+    </a>
 </section><!--end .contact_form_area-->
 <!--===========================
         End Contact Form
